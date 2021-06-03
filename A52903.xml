@@ -1,0 +1,1137 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A New collection of the choicest songs as they are sung at court, both the theaters, the musick-schools and academies &amp;c. / collected for the recreation of gentlemen, ladies and others.</title>
+         </titleStmt>
+         <extent>Approx. 35KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52903</idno><idno type="EEBO-CITATION">12250416</idno>
+  <idno type="VID">57070</idno>
+  <idno type="EEBO-PROQUEST">2240953942</idno>
+  
+            <idno type="STC">Wing N598</idno>
+            <idno type="STC">ESTC R31740</idno>
+            <idno type="OCLC">12250416</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A52903)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 57070)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1509:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A New collection of the choicest songs as they are sung at court, both the theaters, the musick-schools and academies &amp;c. / collected for the recreation of gentlemen, ladies and others.</title>
+               </titleStmt>
+               <extent>[40] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for D. Brown ... and T. Benskin ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: print showthrough with slight loss of print.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">English poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Alexis (Ali) Jakobson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Alexis (Ali) Jakobson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:57070:1"/>
+            <pb facs="tcp:57070:1"/>
+            <p>A NEW COLLECTION Of the Choicest SONGS, As they are SUNG at COURT, BOTH THE THEATERS, THE MUSICK-SCHOOLS and Academies, &amp;c.</p>
+            <p>Collected for the Recreation of Gentlemen, Ladies, and others.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>D. Brown</hi> at the Black-Swan with<g ref="char:EOLhyphen"/>out <hi>Temple-Barr,</hi> and <hi>T. Benskin</hi> in St. <hi>Brides</hi> Church-Yard, 168<subst>
+                  <del>2</del>
+                  <add>1</add>
+               </subst>. <add>9. Dec.</add>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="songs">
+            <pb facs="tcp:57070:2"/>
+            <pb facs="tcp:57070:2"/>
+            <div type="song">
+               <head>The willing Lovers. A Pleasant New Song.</head>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>
+                     <hi>AH Phillis</hi> awake,</l>
+                  <l>Come let us away,</l>
+                  <l>See how the Gray dawn</l>
+                  <l>Does Usher the day,</l>
+                  <l>The Lark aloud Sings,</l>
+                  <l>And the Flocks they do blate,</l>
+                  <l>Come Rise my dear <hi>Phillis,</hi>
+                  </l>
+                  <l>Before 'tis too late.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>Let us go where our Loves</l>
+                  <l>We may mutually bind;</l>
+                  <l>And then my dear <hi>Phillis</hi>
+                  </l>
+                  <l>We'l ever be kind;</l>
+                  <l>I'm willing my Shepheard,</l>
+                  <l>And bless the fair Morn,</l>
+                  <l>That does our Nuptials</l>
+                  <l>With Purple Adorn.</l>
+               </lg>
+            </div>
+            <div type="song">
+               <pb facs="tcp:57070:3"/>
+               <head>Cupids Chains Divided. A Delightful Song.</head>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>MAdam, no more I ask your Love,</l>
+                  <l>Your Charms I all defie,</l>
+                  <l>Paint nor Perfumes no more shall move</l>
+                  <l>Me to such Fond Idolatry,</l>
+                  <l>
+                     <hi>Cupid</hi> thou God of troubles hence,</l>
+                  <l>Thou Enemy to Rest,</l>
+                  <l>Against thy Shafts I have a Fence,</l>
+                  <l>To Guard my wary Breast.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>That Women should suppose disdain,</l>
+                  <l>Scorns, Taunts and Coyness are,</l>
+                  <l>The ways our Services to gain,</l>
+                  <l>And take us in their Snare,</l>
+                  <l>'Tis nothing so, for those are things,</l>
+                  <l>That always sets us free,</l>
+                  <l>Ingratitude it always brings,</l>
+                  <l>Lov s Captives Liberty.</l>
+               </lg>
+            </div>
+            <div type="song">
+               <pb facs="tcp:57070:3"/>
+               <head>Repentance too Late. A New Song,</head>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>IN a Mirtle Grove,</l>
+                  <l>Adorned with a Spring,</l>
+                  <l>As I did once Rove,</l>
+                  <l>I heard fair <hi>Phebe</hi> Sing.</l>
+                  <l>Alas, ye Powers above,</l>
+                  <l>Had I but once been kind,</l>
+                  <l>I still had had my Love,</l>
+                  <l>Who now no more I find.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>For by my Scorns he's Slain,</l>
+                  <l>Kind <hi>Damon</hi> who for me</l>
+                  <l>All others did Disdain,</l>
+                  <l>Curse on my Crueltie.</l>
+                  <l>Witness ye Grove ye Spring,</l>
+                  <l>But his sad Fate I'le share,</l>
+                  <l>Whilst Swan like here I Sing,</l>
+                  <l>My Death persaging Care.</l>
+               </lg>
+            </div>
+            <div type="song">
+               <pb facs="tcp:57070:4"/>
+               <head>The Inchantment. A Pleasant New Song.</head>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>Ye Pow'rs of Night-darkness, and the deep Cell</l>
+                  <l>Where poor tormented Ghosts for ever dwell,</l>
+                  <l>You, you, that Ride upon the swiftest wind,</l>
+                  <l>And from Earths Center easie passage find,</l>
+                  <l>Who scour the Regions of the Aire, and sweep</l>
+                  <l>With level wings the surface of the deep;</l>
+                  <l>Arise, arise, and fetch my Love again,</l>
+                  <l>VVho now is floating on the Azer Main.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>Unbar the Caves where South-west winds do dwell</l>
+                  <l>Muster black Clouds, let them with tempest swell,</l>
+                  <l>Let lightning burn, till all the Ocean seem</l>
+                  <l>But one great blaze, a fiery foaming stream;</l>
+                  <l>Let the waves dash Heavens headlong falling fire</l>
+                  <l>And their curl'd tops above the Clouds aspire,</l>
+                  <l>VVhilst the afrighted Pilot slacks his hand,</l>
+                  <l>Throws down his Card, &amp; knows not how to stand</l>
+               </lg>
+               <lg n="3">
+                  <pb facs="tcp:57070:4"/>
+                  <head>3.</head>
+                  <l>Then, then at random drive the floating tower,</l>
+                  <l>VVhilst it again return to this safe shoar,</l>
+                  <l>That then amidst my Love-aluring charms,</l>
+                  <l>He may rest safer then in <hi>Thetis</hi> Armes,</l>
+                  <l>And so confess how he unkindly left</l>
+                  <l>Her, who with him, was of all joys bereft,</l>
+                  <l>Arise grim Pow'r I say, obey my will,</l>
+                  <l>Or else i'le drag you with my Magick spell.</l>
+               </lg>
+            </div>
+            <div type="song">
+               <head>A delightful Play-Song.</head>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>SAd as Death at dead of Night,</l>
+                  <l>The fair complaining <hi>Celia</hi> fate,</l>
+                  <l>But one poor Lamp was all her light,</l>
+                  <l>And thus she reason'd with her fate,</l>
+                  <l>VVhy should man such triumphs gain,</l>
+                  <l>And purchase joys that give us pain;</l>
+                  <l>Ah, what Glory can ensue,</l>
+                  <l>A helpless Virgin to undo.</l>
+               </lg>
+               <lg n="2">
+                  <pb facs="tcp:57070:5"/>
+                  <head>2.</head>
+                  <l>Curse the Night, and Curse the Hour,</l>
+                  <l>VVhen first he drew thee to his Armes,</l>
+                  <l>When Virtue was betray'd by Power,</l>
+                  <l>And yielded to unlawful Charms,</l>
+                  <l>When Love approach'd with all his fiers,</l>
+                  <l>Arm'd with hopes and strong desires,</l>
+                  <l>Sighs and tears, and every wile</l>
+                  <l>With which the Men the Maids beguile.</l>
+               </lg>
+               <lg n="3">
+                  <head>3.</head>
+                  <l>Dream no more of pleasure past,</l>
+                  <l>Since thy Torments are to come,</l>
+                  <l>The secret is made known at last,</l>
+                  <l>And endless shame is now my doom,</l>
+                  <l>The false forsworn, alas is gone,</l>
+                  <l>And left thee to despair alone,</l>
+                  <l>Who that hears of <hi>Celia</hi>'s pain,</l>
+                  <l>Will ever ever trust a Man again.</l>
+               </lg>
+            </div>
+            <div type="song">
+               <pb facs="tcp:57070:5"/>
+               <head>Vertues Admirer. A New Song, as it is Sung at the Musick-Schools.</head>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>INspire <hi>Apollo</hi>'s Sacred Muse,</l>
+                  <l>Ye Nimphs of <hi>Helicon</hi> infuse,</l>
+                  <l>Who on <hi>Parnassus</hi> tops do dwell,</l>
+                  <l>Breath, breath new flames whilst that I tell,</l>
+                  <l>Or warble Amorous descant forth</l>
+                  <l>In <hi>Mariana</hi>'s Praise and worth:</l>
+                  <l>Roses go hide, Lillies hence flie,</l>
+                  <l>All blooming Blossoms shed and die.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>No outside form I mean to Paint,</l>
+                  <l>On this my much admired Saint,</l>
+                  <l>But her perfections in her Soul,</l>
+                  <l>Which like to Silver streams still rowl:</l>
+                  <l>Of Wisdom, Love, and Meekness, seat</l>
+                  <l>The Center where all Vertues meet,</l>
+                  <l>All Graces dwell, this only this,</l>
+                  <l>Should be esteemed Loves Paradice.</l>
+               </lg>
+               <lg n="3">
+                  <pb facs="tcp:57070:6"/>
+                  <head>3.</head>
+                  <l>And not the Gaudy outside bloom,</l>
+                  <l>Which soon will wither and consume,</l>
+                  <l>Which Summers heat or Winters cold,</l>
+                  <l>With Aged wrinkles can Infold,</l>
+                  <l>But in my Love such Beauties dwell,</l>
+                  <l>That Death himself can never kill;</l>
+                  <l>A lovely lasting happiness,</l>
+                  <l>I with ten thousand Joys possess.</l>
+               </lg>
+            </div>
+            <div type="song">
+               <head>The <hi>Countrymans</hi> Complement, Or the cracking of <hi>Philberts.</hi> A Pleasant New Song.</head>
+               <div n="1" type="part">
+                  <sp>
+                     <l>HOw now <hi>Joan,</hi> ad's-Zous well met,</l>
+                     <l>Dost see how Plaguely I'se sweat,</l>
+                     <l>I'se been a Nutting, dost thou see,</l>
+                     <l>And here <hi>Joan</hi> here is three for thee.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Joan.</speaker>
+                     <l>Thanks dear <hi>John,</hi> for now I find,</l>
+                     <l>You to me are swindging kind,</l>
+                     <l>But why is this i'th' mid'st so long,</l>
+                     <l>Sure the to'ther two are young.</l>
+                  </sp>
+                  <sp>
+                     <pb facs="tcp:57070:6"/>
+                     <speaker>John.</speaker>
+                     <l>Oh that's a <hi>Philbert</hi> my Sheeps eye,</l>
+                     <l>The other round ones that you spie,</l>
+                     <l>Are to make the Bunch compleat,</l>
+                     <l>Come lends thy Nutcracker my sweet,</l>
+                     <l>Beneath this Bush lie down my dear,</l>
+                     <l>And thou'st ha'th' Kernel for thy share.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Joan.</speaker>
+                     <l>O here then 'tis beneath my Waist,</l>
+                     <l>To crack your <hi>Philbert</hi> then make hast.</l>
+                  </sp>
+               </div>
+               <div n="2" type="part">
+                  <head>2.</head>
+                  <sp>
+                     <l>Ah me the Kernel's passing sweet,</l>
+                     <l>My <hi>John</hi> where didst thou gather it,</l>
+                     <l>O-I'se do long for more, yet more,</l>
+                     <l>For I'se ne're tasted th' like before.</l>
+                  </sp>
+                  <sp>
+                     <speaker>John.</speaker>
+                     <l>I'se have the Tree on which they grow,</l>
+                     <l>And thou'st nere want I'se tell thee but so,</l>
+                     <l>If that thy Nutcracker thou'st but lend,</l>
+                     <l>I'se will find <hi>Filberts</hi> to the end.</l>
+                  </sp>
+               </div>
+            </div>
+            <div type="song">
+               <pb facs="tcp:57070:7"/>
+               <head>The <hi>Welch</hi> Adventurer. A most Pleasant New Song.</head>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>HUr was tell Hur a Trick,</l>
+                  <l>And Hur was tell hur a thing,</l>
+                  <l>Hur went good luck to seek,</l>
+                  <l>Until hur had like to Swing.</l>
+                  <l>Cots-Plut was see some Cold,</l>
+                  <l>And then her was think her Rich,</l>
+                  <l>And with it did strait make bold,</l>
+                  <l>For why hur fingers did Itch.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>But when hur had got it up,</l>
+                  <l>And with it was trudging away,</l>
+                  <l>Plut, hur was cry, stop, stop,</l>
+                  <l>And then hur was forc'd to stay;</l>
+                  <l>Then was carry hur to Crate house,</l>
+                  <l>From thence before Lord Shudg,</l>
+                  <l>Where was burn hur hand Adzouse,</l>
+                  <l>And then bid hur home to trudg.</l>
+               </lg>
+            </div>
+            <div type="song">
+               <pb facs="tcp:57070:7"/>
+               <head>The <hi>Scotch</hi> Lovers: or the Threshing of the <hi>Pease-Mow.</hi> A most delightful Song.</head>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>
+                     <hi>JOcky</hi> and <hi>Jenny</hi> one Evening late,</l>
+                  <l>Did gang to the Pease Mow, and there sat</l>
+                  <l>Talking of Love, when <hi>Jocky</hi> espies,</l>
+                  <l>Something by Moon-light 'twixt <hi>Jennys</hi> Th—</l>
+                  <l>Alass my dear <hi>Jenny,</hi> prethee what is this,</l>
+                  <l>Nothing but what should be, by this kiss,</l>
+                  <l>'Tis dear <hi>Jocky,</hi> a little Fish-Pond,</l>
+                  <l>Where you may Angle with your Muckle wand.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>With that <hi>Jocky</hi> laid his Bonnet by,</l>
+                  <l>And off went's Plad this pastime to try,</l>
+                  <l>Whilst <hi>Jenny</hi> kiss'd him in muckle sort,</l>
+                  <l>And welcom'd kind <hi>Jocky</hi> to the sport,</l>
+                  <l>Who cast in his bait, and it soon took,</l>
+                  <l>But at the end on't there was no hook;</l>
+                  <l>And therefore, though he did Angle long,</l>
+                  <l>He could catch no Fish, though they bit ding dong.</l>
+               </lg>
+            </div>
+            <div type="song">
+               <pb facs="tcp:57070:8"/>
+               <head>A Charm against Winter: or, The Good-Fellows Delight. A New Song.</head>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>WHen Winter Freezes up the Fountains,</l>
+                  <l>And Snow covers all the Mountains,</l>
+                  <l>Then for good Liquor to keep us warm,</l>
+                  <l>O-brisk Canary that's a Charm;</l>
+                  <l>Of better proof then walls of Steel,</l>
+                  <l>With that once Arm'd, no cold we feel,</l>
+                  <l>It does defie the sharpest rage,</l>
+                  <l>That Northern blast can ever wage.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>The Eastern winds blow, but in vain,</l>
+                  <l>The Hoary Frosts, and drizling Rain,</l>
+                  <l>Like <hi>May-Dew</hi> seem to us, when we</l>
+                  <l>Do drink about most plenteously;</l>
+                  <l>VVhen round round the Rummer does pass,</l>
+                  <l>And every Man takes off his Glass,</l>
+                  <l>Then let it Blow, let it Freeze, let it Snow,</l>
+                  <l>VVe Sweat, whilst others shivering go.</l>
+               </lg>
+            </div>
+            <div type="song">
+               <pb facs="tcp:57070:8"/>
+               <head>The Mournful Shepheard. A New Song.</head>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>GReat <hi>Pan</hi> thou God of Shepheards hast,</l>
+                  <l>Assist an humble Swain,</l>
+                  <l>VVhom the proud Nymphs bright Eyes did blast,</l>
+                  <l>And cause thus to complain,</l>
+                  <l>VVhilst through the Wood I walking late,</l>
+                  <l>Under the coolest shade,</l>
+                  <l>I saw fair <hi>Cloris,</hi> O my Fate,</l>
+                  <l>VVho by a Stream was laid.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>But starting up, unkindly fled,</l>
+                  <l>Although I woo'd her stay,</l>
+                  <l>Swift as a wand'ring Fire she sped,</l>
+                  <l>That leads poor Man astray:</l>
+                  <l>And though I sought o're Hill and Plain,</l>
+                  <l>Yet never since could I,</l>
+                  <l>A sight of all my Joys obtain,</l>
+                  <l>O bring her or I die.</l>
+               </lg>
+            </div>
+            <div type="song">
+               <pb facs="tcp:57070:9"/>
+               <head>The Frantick Lover. A New Song.</head>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>GRim King of the Ghosts make hast,</l>
+                  <l>Come bring hither all your Train,</l>
+                  <l>See how the Pale Moon does wast,</l>
+                  <l>She is now just in her wain:</l>
+                  <l>Come Night-Hagg with all your Charms,</l>
+                  <l>Come <hi>Lapland</hi> witches away,</l>
+                  <l>And hugg me close in your Armes,</l>
+                  <l>To you my respects I'le pay.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>I'le Court you, and think you Fair,</l>
+                  <l>For Love has distracted my Brain,</l>
+                  <l>Nay, I will wedd the Night-Mare,</l>
+                  <l>And Kiss her again and again;</l>
+                  <l>She'l not be scornful and Proud,</l>
+                  <l>Curse upon Love, let it go,</l>
+                  <l>I'le get me a winding shroud,</l>
+                  <l>And down to the Ghosts below.</l>
+               </lg>
+            </div>
+            <div type="song">
+               <pb facs="tcp:57070:9"/>
+               <head>The Invitation. A New Song.</head>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>ARise my sweet <hi>Phillis,</hi> and let's to the Grove,</l>
+                  <l>And there in shades solace, and talk of our Love,</l>
+                  <l>There none shall o're hear us, their Envy shan't come,</l>
+                  <l>And there for Loves pleasures we shall have large Room,</l>
+                  <l>Whilst over our heads the kind Mirtle shall spread,</l>
+                  <l>We'l make the soft Grass and sweet Violets our Bed.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>The Musick of Nightingals there shall us Charm,</l>
+                  <l>Whilst we lie folded soft all Arm in Arm;</l>
+                  <l>Arise then my Fairest, and let us away,</l>
+                  <l>For hark the sweet <hi>Lark</hi> does now summons the day;</l>
+                  <l>Come come my best Love, 'tis <hi>Philander</hi> does call</l>
+                  <l>In mighty Loves name, that does still command all.</l>
+               </lg>
+            </div>
+            <div type="song">
+               <head>A New Town Catch.</head>
+               <l>AT last the loud Murmours that troubled the State,</l>
+               <l>The noise and False rumours, which Malice and hate</l>
+               <l>Had causelesly rais'd to disturb our sweet Peace,</l>
+               <l>Is quite over-blown, and all Jealousies cease,</l>
+               <l>And <hi>England</hi> will flourish again we do hope,</l>
+               <l>In spite of <hi>Whig-Plotters,</hi> and those of the <hi>Pope.</hi>
+               </l>
+            </div>
+            <div type="song">
+               <pb facs="tcp:57070:10"/>
+               <head>The Despairing Virgin. A New Song.</head>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>ALL Joy to the Bride that bless'd <hi>Hymen</hi> does Grace,</l>
+                  <l>Who Blushing receives her kind Bridegrooms embrace,</l>
+                  <l>And seems though most willing, unwilling and coy,</l>
+                  <l>And faintly resists what she fain would enjoy,</l>
+                  <l>She, she 'tis that's Happy, But O my hard fate,</l>
+                  <l>Pity God <hi>Cupid</hi> before't be too late:</l>
+                  <l>The flower of my Age I already have spent,</l>
+                  <l>And none e're yet askt me, why here I was sent.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>O the dread thought of deep <hi>Acharons</hi> Cell,</l>
+                  <l>And that I hereafter shall lead Apes in Hell,</l>
+                  <l>Does almost distract me, Lads, what must I do,</l>
+                  <l>Is't not prepost'rous for Women to Woe:</l>
+                  <l>A Curse of her pride and ambition, who first</l>
+                  <l>Brought up that false fashion, of all things the worst,</l>
+                  <l>Which tortures poor Virgins whilst mute we must sit,</l>
+                  <l>And (what they love most) see, but not ask for it.</l>
+               </lg>
+            </div>
+            <div type="song">
+               <pb facs="tcp:57070:10"/>
+               <head>The Coy Virgin. A New Play-Song.</head>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>Fast by a River, close under a shade,</l>
+                  <l>Fair <hi>Celia</hi> and <hi>Strephon</hi> one Evening were lay'd,</l>
+                  <l>The Youth pleaded strong for the fruits of his Love,</l>
+                  <l>But Honour had wone her, his Suit to reprove;</l>
+                  <l>She cry'd, where's the lustre when the Clouds shade the Sun,</l>
+                  <l>Or what is brisk Nectar, the taste being gon?</l>
+                  <l>Amongst Flowers on the Stalk, sweetest Odors do dwell,</l>
+                  <l>But the <hi>Rose</hi> being gather'd, it looses its smell.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>My dearest of Nymphs, the brisk Shepbeard reply'd,</l>
+                  <l>If e're you will argue, begin on Loves side,</l>
+                  <l>In matters of State, let all reason be shown,</l>
+                  <l>But Love is a power will be rul'd by his own;</l>
+                  <l>Nor need the Coy Beauties be counted so rare,</l>
+                  <l>For scandal can't touch the Chast and the Fair;</l>
+                  <l>So scarce are the Joys Loves <hi>Alimbeck</hi> does fill,</l>
+                  <l>And <hi>Roses</hi> are sweetest when brought to the <hi>Still.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="song">
+               <pb facs="tcp:57070:11"/>
+               <head>Advice to Coy Virgins. A Musick Song.</head>
+               <l>VIrgins be not Proud,</l>
+               <l>Your Roses they will fade,</l>
+               <l>And all the Beauteous shroud</l>
+               <l>Time will with wrinckles lade,</l>
+               <l>Whilst that your Blooms does last,</l>
+               <l>Disdain not Lover kind,</l>
+               <l>Least when time does them blast,</l>
+               <l>Then none at all you find.</l>
+            </div>
+            <div type="song">
+               <head>Song.</head>
+               <l>RAttle, Rattle, Rattle comes the Car</l>
+               <l>Of Grim <hi>Mars,</hi> the great God of War,</l>
+               <l>And see where <hi>Venus</hi> sits by his side,</l>
+               <l>Whilst Limping <hi>Vulcan</hi> seems to chide;</l>
+               <l>See little <hi>Cupid</hi> pearching on high,</l>
+               <l>From his Bow his Shaft lets fly,</l>
+               <l>Whilst the smiling Queen of Love does yield,</l>
+               <l>Yet so as She still keeps the Field.</l>
+            </div>
+            <div type="song">
+               <pb facs="tcp:57070:11"/>
+               <head>A Christmas Revel.</head>
+               <l>TIs <hi>Christmas</hi> time, let's be Merry,</l>
+               <l>Let's Play, Sing and Dance till we're weary,</l>
+               <l>The Lasses let's Kiss,</l>
+               <l>Let none come amiss,</l>
+               <l>Be't <hi>Nan, Betty, Sue, Pegg</hi> or <hi>Mary,</hi>
+               </l>
+               <l>We'l have at 'um all,</l>
+               <l>Black, Brown, Short or Tall,</l>
+               <l>
+                  <hi>Doll, Prue, Kate, Ciss, Joan</hi> or <hi>Sary,</hi>
+               </l>
+               <l>Their Marks stand so fair,</l>
+               <l>That you need not to fear,</l>
+               <l>Though't be in the dark, to miscarry.</l>
+            </div>
+            <div type="song">
+               <head>The languishing Shephardess.</head>
+               <l>COme away, come away,</l>
+               <l>'Tis <hi>Celia</hi> calls the Swain,</l>
+               <l>Why do'st thou thus delay,</l>
+               <l>And make me wait in vain;</l>
+               <l>The Shades they do Conspire,</l>
+               <l>That we should happy prove,</l>
+               <l>In what we most desire,</l>
+               <l>Even in the joys of Love.</l>
+            </div>
+            <div type="song">
+               <pb facs="tcp:57070:12"/>
+               <head>LOVE in Despair. A Play Song.</head>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>ARise pale Ghost, and give me Roome,</l>
+                  <l>For upon Fates swift Wings I come,</l>
+                  <l>Death, Grisly King, to the I yield,</l>
+                  <l>Thou, thou alas hast gain'd thee Field,</l>
+                  <l>Better in thy cold Armes to rest,</l>
+                  <l>Then with despairing Love oppress'd;</l>
+                  <l>Ah cruel Beauty, see thy Pow'r,</l>
+                  <l>How it destroys him in an hour.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>Whose Armes like Whirlwinds rag'd in War,</l>
+                  <l>Whilst heaps of Slain his ways did Bar,</l>
+                  <l>He who ten Thousand Deaths has stood,</l>
+                  <l>Must now be guilty of his Blood,</l>
+                  <l>Then be it so, be strong my Arme,</l>
+                  <l>To sunder Loves bewitching Charm,</l>
+                  <l>The deed is done, my Spirit fades,</l>
+                  <l>I come ye Ghosts to your dark shades.</l>
+               </lg>
+            </div>
+            <div type="song">
+               <pb facs="tcp:57070:12"/>
+               <head>A HEALTH.</head>
+               <lg>
+                  <l>TO <hi>Bacchus</hi> we drink,</l>
+                  <l>Come fill't to the brink,</l>
+                  <l>Let a Rummer go round whilst we're Merry,</l>
+                  <l>Let Misers take care,</l>
+                  <l>We never will spare,</l>
+                  <l>But round let it go till we're weary;</l>
+                  <l>O 'tis the brisk Wine,</l>
+                  <l>That makes us Divine,</l>
+                  <l>Then fill up a Bumper of Sherry.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>Round round let it go,</l>
+                  <l>Above and below,</l>
+                  <l>Whilst Stars they the Skies do bespangle,</l>
+                  <l>The Moon she Shines bright,</l>
+                  <l>Whilst we pass the Night,</l>
+                  <l>And scorn all such Sots as will wrangle,</l>
+                  <l>Here <hi>Will,</hi> here's to you,</l>
+                  <l>Gra-mercy true blew,</l>
+                  <l>No Cares shall our thoughts now intangle.</l>
+               </lg>
+            </div>
+            <div type="song">
+               <pb facs="tcp:57070:13"/>
+               <head>The Charmed Lover.</head>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>MY Mistress has Eyes like a Dove,</l>
+                  <l>Her Cheeks shame the Lilly and Rose,</l>
+                  <l>Her Lips like two Corrals do move,</l>
+                  <l>To shew the white Pearls they inclose;</l>
+                  <l>Her Breasts seem two Pillars of Snow,</l>
+                  <l>And her Belly like Ivory bright,</l>
+                  <l>But oh! I'le not name what's below,</l>
+                  <l>But leave you to Judge the delight.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>VVhich often I've took in my dear,</l>
+                  <l>VVhilst close I lay clasp'd in her Armes,</l>
+                  <l>VVhen right at the Helme I did Stere,</l>
+                  <l>VVhilst she with her <hi>Syrean</hi>'s Charmes,</l>
+                  <l>Did make me cast Anchor full oft,</l>
+                  <l>And all my Lull'd Senses beguil'd,</l>
+                  <l>In Oceans of pleasure so soft,</l>
+                  <l>That <hi>Venus</hi> she rightly is stil'd.</l>
+               </lg>
+            </div>
+            <div type="song">
+               <pb facs="tcp:57070:13"/>
+               <head>Cupids Snare. A pleasant Musick-school Song.</head>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>TRiumphant Queen of Beauty,</l>
+                  <l>Ah you whose lightning Eyes,</l>
+                  <l>Makes me express my Duty,</l>
+                  <l>That once did Love dispise;</l>
+                  <l>No force had all its Charming,</l>
+                  <l>Fond <hi>Cupid</hi> I disdain'd,</l>
+                  <l>And smile to see him Arming,</l>
+                  <l>To make me feel Loves pain.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>But now alass your Features</l>
+                  <l>Have Charm'd me; Soul of Love,</l>
+                  <l>Excelling Mortal Creatures,</l>
+                  <l>O let some Pitty move,</l>
+                  <l>To th' Conquer'd be not Cruel,</l>
+                  <l>Dart, Dart some kindly Rays,</l>
+                  <l>Let not my Heart be Fuel,</l>
+                  <l>That evermore must blaze.</l>
+               </lg>
+            </div>
+            <div type="song">
+               <pb facs="tcp:57070:14"/>
+               <head>The Mournful Shepheard. A New Song.</head>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>COuld Man his wish obtain,</l>
+                  <l>How happy would he be,</l>
+                  <l>But wishes seldom gain,</l>
+                  <l>And hopes they are in vain,</l>
+                  <l>If fortunes disagree.</l>
+                  <l>Pity ye Powers of love,</l>
+                  <l>Our Infelicity.</l>
+                  <l>Why should the Fates Conspire,</l>
+                  <l>To frustrate my desire,</l>
+                  <l>Since Love's the gentle fire,</l>
+                  <l>That keeps the world alive;</l>
+                  <l>But me it puts to pain,</l>
+                  <l>My wishes are in vain,</l>
+                  <l>Nor promise any hopes to gain.</l>
+               </lg>
+            </div>
+            <div type="song">
+               <pb facs="tcp:57070:14"/>
+               <head>The Lovers Dream A Pleasant New Song.</head>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>WHen gentle Slumber closed,</l>
+                  <l>My long-long-waking Eyes</l>
+                  <l>And I on Down reposed,</l>
+                  <l>Methought ten thousand joys</l>
+                  <l>Had rapt my Soul, for then</l>
+                  <l>I did suppose my Love</l>
+                  <l>Fast in my Armes had been,</l>
+                  <l>And I her Charms did prove.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>Transported with the thought,</l>
+                  <l>I fancy'd none so bless'd,</l>
+                  <l>But 'twas a shade I caught,</l>
+                  <l>The only Aire I press'd,</l>
+                  <l>Which waking, wounded more</l>
+                  <l>Then Mortal can express,</l>
+                  <l>And to the <hi>Stigian</hi> shoare</l>
+                  <l>Fled all my happiness.</l>
+               </lg>
+            </div>
+            <div type="song">
+               <pb facs="tcp:57070:15"/>
+               <head>The forsaken Nymph. A New Song.</head>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>ARise ye Winds from your rough Caves,</l>
+                  <l>And rouse, O rouse the swelling Waves,</l>
+                  <l>O drive my Love again to Shore,</l>
+                  <l>That I may see his Face once more;</l>
+                  <l>Who flies from me on the broad back</l>
+                  <l>Of the Salt Ocean, through the track</l>
+                  <l>Of yielding Floods, whilst left alone,</l>
+                  <l>I sigh, and tell deaf Rocks my moan.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>Cruel, O cruel, how he swore,</l>
+                  <l>He me for ever would adore</l>
+                  <l>Next to the Pow'rs Divine, but see</l>
+                  <l>Ye Pow'rs of Love Mens treachery;</l>
+                  <l>Too easie my beliefs betray'd,</l>
+                  <l>And all my hopes just blooming fade,</l>
+                  <l>Grief, Grief come on, to thee I'le wed,</l>
+                  <l>And on this Sea-bank make my Bed.</l>
+               </lg>
+               <lg n="3">
+                  <pb facs="tcp:57070:15"/>
+                  <head>3.</head>
+                  <l>Come Sea-Nymphs from your Corral Caves,</l>
+                  <l>Arise blew <hi>Trytons</hi> from your Waves,</l>
+                  <l>Revenge my Death, O close my eyes,</l>
+                  <l>For wrong'd in Love, a Virgin dies,</l>
+                  <l>Witness the Fires that burns so bright,</l>
+                  <l>Witness the Tapers of the night,</l>
+                  <l>Witness the Spring and Groves she cry'd,</l>
+                  <l>And then she laid her down and dy'd.</l>
+               </lg>
+            </div>
+            <div type="song">
+               <head>Cupids Delight. A Play Song.</head>
+               <l>AH how pleasant are the Charms of Love,</l>
+               <l>Which like Streams are always floiwng,</l>
+               <l>Ah how pleasant are the Charms of Love,</l>
+               <l>Which like Streams are always flowing,</l>
+               <l>So my Passions still a growing,</l>
+               <l>Nothing but my <hi>Celia</hi>'s Eyes can move,</l>
+               <l>So my Passion's still a growing,</l>
+               <l>Perfect and Immortal as the Joys above.</l>
+            </div>
+            <div type="song">
+               <pb facs="tcp:57070:16"/>
+               <head>The Joys of a happy Marriage. A New Play Song.</head>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>ALL hail to the Pleasures of Love,</l>
+                  <l>All hail to the Amorous Charms,</l>
+                  <l>Where a chast Passion does move,</l>
+                  <l>Th' embrace of each others soft Armes,</l>
+                  <l>VVhere kisses do Usher Love on,</l>
+                  <l>Soft Sighs and sweet Murmours invite,</l>
+                  <l>VVhilst panting they pause, and then soon</l>
+                  <l>Afresh they begin their delight.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>Then who'd not enjoy such a bliss,</l>
+                  <l>To pass away Winters long shade,</l>
+                  <l>VVith Beauty, to Toy, Clip and Kiss,</l>
+                  <l>And on her soft Bosom be laid,</l>
+                  <l>And like the kind Turtles be Billing,</l>
+                  <l>To call on new pleasures apace,</l>
+                  <l>A striving to see who's most willing,</l>
+                  <l>Again and again to embrace.</l>
+               </lg>
+            </div>
+            <div type="song">
+               <pb facs="tcp:57070:16"/>
+               <head>The Lovers Invocation. A New Play-house Song.</head>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>BE still ye boisterous Waves,</l>
+                  <l>Green Neptune rage no more,</l>
+                  <l>Begone <hi>Aeolian</hi> Slaves,</l>
+                  <l>To <hi>Scithia</hi>'s Rockie shore;</l>
+                  <l>Sea raging <hi>Trytons</hi> all,</l>
+                  <l>Whose Loud shells the deep,</l>
+                  <l>Summons to you I call,</l>
+                  <l>That you'd my love safe keep.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>From dangers that attend</l>
+                  <l>Such as do Plough your Brine,</l>
+                  <l>And him from Racks defend,</l>
+                  <l>Or shoale that undermine</l>
+                  <l>The smooth deceiving Flood,</l>
+                  <l>VVhen <hi>Nerius</hi> leaves to swell,</l>
+                  <l>You Nymphs that in a wood</l>
+                  <l>Of Brauching Corral dwell.</l>
+               </lg>
+               <lg n="3">
+                  <pb facs="tcp:57070:17"/>
+                  <head>3.</head>
+                  <l>Do you prove kind and Wooe,</l>
+                  <l>
+                     <hi>Thetis</hi> your Auziar Queen,</l>
+                  <l>That She'd to <hi>Neptune</hi> Sue,</l>
+                  <l>To Rein his wil'd waves in,</l>
+                  <l>VVhilst my Souls Charm returns,</l>
+                  <l>And I my Joy do find,</l>
+                  <l>(For whom my Passion burns)</l>
+                  <l>Freed both from waves and wind.</l>
+               </lg>
+            </div>
+            <div type="song">
+               <head>A Catch.</head>
+               <l>TO the wars, to the wars,</l>
+               <l>To get honour and fame,</l>
+               <l>Let us banish all fears,</l>
+               <l>To create us a Name,</l>
+               <l>The grim Tyrant out-face,</l>
+               <l>And his Terrors dispise,</l>
+               <l>For by that we take place,</l>
+               <l>Amongst Stars in the Skies.</l>
+            </div>
+            <div type="song">
+               <pb facs="tcp:57070:17"/>
+               <head>Advice to Virgins. A Musick-House Song.</head>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>ONe Moon-shiny Night, as I walked out late,</l>
+                  <l>I saw a pale Image, and sadly it sate,</l>
+                  <l>At first I did think it might be some sad Ghost,</l>
+                  <l>That lately had stray'd from <hi>Eliziums</hi> Coast,</l>
+                  <l>But I found my mistake, for alas 'twas not so,</l>
+                  <l>But a sad Female that once I did know,</l>
+                  <l>She bewailed her hard Fate, and loudly She Cry'd,</l>
+                  <l>When I believ'd Man first, I wish I had Dy'd.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>For ah my Virginity that is no more,</l>
+                  <l>Too easy I credited all that he Swore,</l>
+                  <l>But when he'd undone me, and got his desire,</l>
+                  <l>Oh then 'twas he Fled, and no more did admire.</l>
+                  <l>Therefore ye Young Damsels, who bloom in your Prime,</l>
+                  <l>Beware how false Man in your thoughts too high Climbe.</l>
+                  <l>Who dares to Invoke the bright Powers all above,</l>
+                  <l>To Witness his Constancy, Passion and Love,</l>
+               </lg>
+               <lg n="3">
+                  <pb facs="tcp:57070:18"/>
+                  <head>3.</head>
+                  <l>How to us Devotion for ever he'l pay,</l>
+                  <l>When as he our Honours designes to betray,</l>
+                  <l>Which being once done, Oh no more he proves kind,</l>
+                  <l>But leaves us, and seeks a new Object to find.</l>
+                  <l>When we Lament may our unhappy State,</l>
+                  <l>But then it avails not, for oh 'tis too Late,</l>
+                  <l>What's done can't be undone, then prove not too kind,</l>
+                  <l>But take my Advice, for I Speak as I find.</l>
+               </lg>
+            </div>
+            <div type="song">
+               <head>The Ranting City Dame. A Song much in Use.</head>
+               <lg>
+                  <l>HA now I am Married, let others take care,</l>
+                  <l>I've one to provide for me, and I'le not spare,</l>
+                  <l>I'le take me a Coach, and away to <hi>Hide</hi> Park,</l>
+                  <l>There I'le be Courted by every spark,</l>
+                  <l>There's none shall go finer whilst that it does hold,</l>
+                  <l>My Gown shall be <hi>Tissue,</hi> all spangl'd with Gold.</l>
+               </lg>
+               <lg>
+                  <l>My Jewels and Rings, and what ever beside,</l>
+                  <l>I will have, that may but conduce to my Pride,</l>
+                  <l>If Husband dare Grumble, I'le graft such a Crest,</l>
+                  <l>As it shall soon make him be known from the rest,</l>
+                  <l>Whilst I with fine Gallants do take my delight,</l>
+                  <l>We'l Revel all day, and we'l sport it all Night.</l>
+               </lg>
+            </div>
+            <div type="song">
+               <pb facs="tcp:57070:18"/>
+               <head>Loves Tyranny, or the Dis<g ref="char:EOLhyphen"/>dainful Beauty. A New Song.</head>
+               <l>POwers on high,</l>
+               <l>From the Skie,</l>
+               <l>Cast an Eye,</l>
+               <l>And espie</l>
+               <l>The Flames that do Consume my Soul;</l>
+               <l>Tyrant Love</l>
+               <l>He does move,</l>
+               <l>And does prove,</l>
+               <l>Fierce as <hi>Jove,</hi>
+               </l>
+               <l>Whose flaming Thunders shake the Pole;</l>
+               <l>Cruel fair</l>
+               <l>Cause of care,</l>
+               <l>Beauteous snare,</l>
+               <l>O yet hear,</l>
+               <l>And do not all my joyes Controul.</l>
+            </div>
+            <div type="song">
+               <pb facs="tcp:57070:19"/>
+               <head>Fames Darling. A New Snog.</head>
+               <lg>
+                  <l>HArk how the loud Trumpets they Shrilly do Sound,</l>
+                  <l>And Drums they do Rattle, whilst Ecchoes rebound,</l>
+                  <l>The fierce Prancing Steeds, whose Nostrils hreath flame,</l>
+                  <l>Stands champing their Bits, whilst that Eagle wing'd fame,</l>
+                  <l>Spurs on the brave Warriour, Deaths fears to deride,</l>
+                  <l>And where Battail Rages, in Arms to abide.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>Whilst Leaden Thunder-bolts sing round his Head,</l>
+                  <l>And the Crimson Fields are bestrowed with the Dead,</l>
+                  <l>The Clashing bright Swords, and the shaking of Spears▪</l>
+                  <l>Are the best Musick that Sounds in his Ears;</l>
+                  <l>Such is brave <hi>Monmouth,</hi> the dread of whose Name,</l>
+                  <l>Made <hi>Monsieur</hi> to tremble <hi>Scotch</hi> Rebels did tame.</l>
+               </lg>
+            </div>
+            <div type="song">
+               <head>A Catch.</head>
+               <l>WHen <hi>Jove</hi> to fair <hi>Dane</hi> in Showers of Gold,</l>
+               <l>Made first his Addresses in the Brazen hold,</l>
+               <l>The Virgin she Blush'd and Admired, till at last,</l>
+               <l>The Glitering o're in a trance had her Cast,</l>
+               <l>And then he Embrac'd her, for scarce is it said,</l>
+               <l>That any holds out when such Batterys are made,</l>
+               <l>Brisk Lasses oft times to an Incubus Wedd,</l>
+               <l>If he but with Gold, and with Silver be Sped.</l>
+            </div>
+            <div type="song">
+               <pb facs="tcp:57070:19"/>
+               <head>The Country Bargain. A most delightful Song.</head>
+               <lg>
+                  <l>JƲgg what Zaist thou, shall we be Marry'd,</l>
+                  <l>For in good troth we's long have tarry'd,</l>
+                  <l>Oh at thy Lips <hi>Jugg</hi> to have a smack,</l>
+                  <l>Is not all thou hast something that's black,</l>
+                  <l>That better will please me, for I long</l>
+                  <l>To have a Buckle fit for my Thong;</l>
+                  <l>Then say <hi>Jugg,</hi> say <hi>Jugg,</hi> shall it be so,</l>
+                  <l>And I'se unto the Parson will go.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>O kind <hi>Hodg,</hi> I fear you do but Jest,</l>
+                  <l>But if in Earnest, I think it best,</l>
+                  <l>That you my <hi>Grannums</hi> good will do get,</l>
+                  <l>And then we soon will forwards set,</l>
+                  <l>For why you know, she's a good old <hi>Trot,</hi>
+                  </l>
+                  <l>And may give us the Devil knows what;</l>
+                  <l>As for Flittermilk and Whay, I'am sure</l>
+                  <l>We shall not want whilst she has store.</l>
+               </lg>
+               <lg n="3">
+                  <head>3.</head>
+                  <l>By my Fathers clouted Shoon thou'rt right,</l>
+                  <l>And I'le unto the old Jade this night,</l>
+                  <l>And then <hi>Jugg</hi> to morrow for the sport,</l>
+                  <l>When I'se shall use thee in Muckle sort,</l>
+                  <l>Buss thee and Hugg thee till thou dost sweat,</l>
+                  <l>When in thy Smock I once do the get,</l>
+                  <l>O the Fancy does make my Chops water,</l>
+                  <l>To think when Marry'd what will come after.</l>
+               </lg>
+            </div>
+            <div type="song">
+               <pb facs="tcp:57070:20"/>
+               <head>The Enjoyment. A pleasant Song.</head>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>AS through the woods I roved,</l>
+                  <l>A Nymph there Naked lay,</l>
+                  <l>Whose Charms so powerful Prov'd,</l>
+                  <l>That they inforc'd my stay,</l>
+                  <l>
+                     <hi>Diana</hi> sure said I</l>
+                  <l>Does sweetly here repose,</l>
+                  <l>The Goddess of the Skie,</l>
+                  <l>VVho her pail Mantle throws.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>Over the Darkest shades,</l>
+                  <l>Pardon bright form I cry'd,</l>
+                  <l>For Love my heart Invades,</l>
+                  <l>And to her then I hied,</l>
+                  <l>No longer could I hold,</l>
+                  <l>But clasp'd her in my Armes,</l>
+                  <l>Who strugling in that Fold,</l>
+                  <l>Produc'd a thousand Charmes.</l>
+               </lg>
+            </div>
+            <div type="song">
+               <pb facs="tcp:57070:20"/>
+               <head>The Inlightned Quaker. A pleasant Chant.</head>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>BY Yea and Nay, now I am mov'd,</l>
+                  <l>Come <hi>Rachel</hi> come, you must be prov'd;</l>
+                  <l>The Inward Man has plainly say'd,</l>
+                  <l>When <hi>Satans</hi> up, he must be laid,</l>
+                  <l>And now I say to thee he's stiff,</l>
+                  <l>Prepare thy Vessel with the Cliff,</l>
+                  <l>Yea, Buffet him till he is down,</l>
+                  <l>By yea and nay you must not frown</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>The Wicked shall not see it done,</l>
+                  <l>Nay, now the Raging fit comes on,</l>
+                  <l>The outward Man does strongly rise,</l>
+                  <l>O hold him fast between thy Thighs,</l>
+                  <l>Nay, till he's Tame, let him not go,</l>
+                  <l>Although he struggle never so;</l>
+                  <l>So, so, 'tis done, and now I say,</l>
+                  <l>Gods Lambs together thus may play.</l>
+               </lg>
+            </div>
+            <div type="song">
+               <pb facs="tcp:57070:21"/>
+               <head>Cupids Net Broaken. A New Song.</head>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>TOrture me no more you pangs of Love,</l>
+                  <l>I'le not endure your Cruelties,</l>
+                  <l>Alas that Virtue it shou'd proves,</l>
+                  <l>Of force too weak for Womans Eyes,</l>
+                  <l>That the keen glances those Orbs send,</l>
+                  <l>Should through our Souls a passage gain,</l>
+                  <l>That man his thoughts should soly bend,</l>
+                  <l>To seek for that which causes pain.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>Indulgent folly, hence away,</l>
+                  <l>Beauties bright Beams I will rebate,</l>
+                  <l>Its Charmes no more shall me betray,</l>
+                  <l>Nor will I Court my rigged Fate;</l>
+                  <l>Loves God your Shafts keep in your Quiver,</l>
+                  <l>For Virtue shall their force repel:</l>
+                  <l>I once have Lov'd, but more will never,</l>
+                  <l>Never such languid Torments feel.</l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:57070:21"/>
+         </div>
+      </body>
+   </text>
+</TEI>
